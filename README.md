@@ -9,7 +9,7 @@ Photoplethysmography (PPG) signal classification is a crucial task in biomedical
 Accurate classification of these beats is vital for detecting arrhythmias and other cardiac anomalies, which can significantly impact patient outcomes.
 
 ## Objective
-In this assignment, we:
+In this project, we:
 - Use a dataset comprising PPG signals from 105 patients with varying sampling frequencies.
 - Preprocess these signals.
 - Train a classifier.
